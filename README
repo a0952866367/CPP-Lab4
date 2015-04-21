@@ -7,4 +7,5 @@ B.
 4 8 => int   : 4
 4 8 => float : 4
 8 8 => double: 8
-	
+Because all types of pointer record to only memory lacation , 
+so they are all the same size of 8.
